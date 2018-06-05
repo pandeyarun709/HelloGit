@@ -1,0 +1,4 @@
+git init -> Initialize the git
+git add-> Tell git to see any modifications
+git commit-> Create a checkpoint
+git status-> Check status of repository at that particular time
